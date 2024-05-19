@@ -24,7 +24,6 @@ Welcome to visit the ERP system through the link below <br>
 <img src="screenshot/Screenshot 2024-05-19 230352.png">
 <img src="screenshot/Screenshot 2024-05-19 230359.png">
 <img src="screenshot/Screenshot 2024-05-19 230414.png">
-<img src="screenshot/Screenshot 2024-05-19 230435.png">
 <img src="screenshot/Screenshot 2024-05-19 230443.png">
 <img src="screenshot/Screenshot 2024-05-19 230649.png">
 <img src="screenshot/Screenshot 2024-05-19 230713.png">
